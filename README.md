@@ -1,4 +1,4 @@
-<div>
+<div style="font-size: 3rem;">
     <p>Hi! I'm Dylan Smith! 👋</p>
     <p>I'm a Front-End Engineer & UX Designer 👨‍💻</p>
 </div>
