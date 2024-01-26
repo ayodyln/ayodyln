@@ -1,7 +1,6 @@
-<div style="font-size: 3rem;">
-    <p>Hi! I'm Dylan Smith! 👋</p>
-    <p>I'm a Front-End Engineer & UX Designer 👨‍💻</p>
-</div>
+# Hi! I'm Dylan Smith! 👋
+
+## I'm a Front-End Engineer & UX Designer 👨‍💻
 
 <img src="https://komarev.com/ghpvc/?username=ayodyln&color=blue&style=for-the-badge" />
 
@@ -13,3 +12,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
