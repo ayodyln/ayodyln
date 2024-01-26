@@ -1,20 +1,9 @@
-<div role="header" aria-level="1" style="display: flex; justify-content: space-between;">
-    <div>
-        <p style="font-size: 2.5rem; margin-bottom: 0; font-weight: bold;">Hi! I'm Dylan Smith! 👋</p>
-        <p style="font-size: 1.5rem;">I'm a Front-End Engineer & UX Designer 👨‍💻</p>
-    </div>
-    <figure style="margin: 0;">
-        <img src="https://komarev.com/ghpvc/?username=ayodyln&color=blue&style=for-the-badge" />
-    </figure>
+<div>
+    <p>Hi! I'm Dylan Smith! 👋</p>
+    <p>I'm a Front-End Engineer & UX Designer 👨‍💻</p>
 </div>
 
-<!--
-**ayodyln/ayodyln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+<img src="https://komarev.com/ghpvc/?username=ayodyln&color=blue&style=for-the-badge" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
